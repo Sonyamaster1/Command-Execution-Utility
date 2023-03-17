@@ -21,8 +21,8 @@ class PromptService {
                 {
                     type,
                     name: 'result',
-                    message
-                }
+                    message,
+                },
             ]);
             return result;
         });
